@@ -1,0 +1,4 @@
+.DB_store
+node_modules
+build
+types
